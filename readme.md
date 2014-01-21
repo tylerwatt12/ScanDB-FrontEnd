@@ -5,13 +5,13 @@
 <pre>Length of track, Talkgroup + RadioID, Time(UNIX), Time(Local), File Size (Bytes)</pre>
 
 <h2>Prereqs:</h2>
-<il>
+<ul>
 	<li>everything search (http://www.voidtools.com/)</li>
 	<li>PHP and Apache</li>
-</il>
+</ul>
 
 <h2>Notes:</h2>
-<il>
+<ul>
 	<li>The index page separates into two types of searches: date based lookup, and query</li>
 	<li>Date based search is performed by listing the contents of a directory</li>
 	<li>Instead of a traiditional database, Everything search is used for quickly pulling up results for a query</li>
@@ -20,4 +20,4 @@
 	<li><pre>(e.g) C:/calls/2014/01/22/</pre></li>
 	<li>This script <b>requires</b> modifications to work properly, it was not designed for easy portability</li>
 	<li>At the very least, file locations and substrings need to be modified to work correctly</li>
-</il>
+</ul>
