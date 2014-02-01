@@ -21,3 +21,9 @@
 	<li>This script <b>requires</b> modifications to work properly, it was not designed for easy portability</li>
 	<li>At the very least, file locations and substrings need to be modified to work correctly</li>
 </ul>
+
+<h2>Todo:</h2>
+<ul>
+	<li>Better portability between OSs</li>
+	<li>Fix substrings to  use relative directory names</li>
+</ul>
